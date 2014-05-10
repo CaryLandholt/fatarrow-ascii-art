@@ -1,0 +1,31 @@
+{
+	"name": "fatarrow-ascii-art",
+	"version": "0.0.0",
+	"description": "ASCII art of the fatarrow log",
+	"author": {
+		"name": "Cary Landholt",
+		"email": "cary@landholt.com",
+		"url": "https://github.com/CaryLandholt"
+	},
+	"repository": {
+		"type": "git",
+		"url": "CaryLandholt/fatarrow-ascii-art"
+	},
+	"main": "index",
+	"keywords": [
+		"fatarrow",
+		"ascii"
+	],
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"dependencies": {
+		"chalk": "~0.4.0"
+	},
+	"devDependencies": {
+		"coffee-script": "~1.7.1",
+		"conventional-changelog": "~0.0.9",
+		"gulp": "~3.6.2",
+		"gulp-util": "~2.2.14"
+	}
+}
