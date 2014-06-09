@@ -20,10 +20,10 @@
 		"node": ">=0.10.0"
 	},
 	"dependencies": {
-		"chalk": "~0.4.0"
+		"chalk": "~0.4.0",
+		"coffee-script": "~1.7.1",
 	},
 	"devDependencies": {
-		"coffee-script": "~1.7.1",
 		"conventional-changelog": "~0.0.9",
 		"gulp": "~3.6.2",
 		"gulp-util": "~2.2.14"
