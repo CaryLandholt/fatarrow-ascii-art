@@ -1,3 +1,11 @@
+## 1.0.0 (2014-06-14)
+
+
+#### Bug Fixes
+
+* **package.json:** add missing comma ([d3e43663](CaryLandholt/fatarrow-ascii-art/commit/d3e43663afcfa61e3c22c2f5e5fd3be7e036653f))
+
+
 ### 0.2.1 (2014-06-09)
 
 
