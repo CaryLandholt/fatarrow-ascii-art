@@ -21,13 +21,13 @@
 		"node": ">=0.10.0"
 	},
 	"dependencies": {
-		"chalk": "~0.4.0",
-		"coffee-script": "~1.7.1"
+		"chalk": "0.5.0",
+		"coffee-script": "^1.7.1"
 	},
 	"devDependencies": {
-		"conventional-changelog": "~0.0.11",
-		"gulp": "~3.8.0",
-		"gulp-util": "~2.2.17"
+		"conventional-changelog": "0.0.11",
+		"gulp": "^3.8.5",
+		"gulp-util": "^2.2.19"
 	},
 	"files": [
 		"CHANGELOG.md",
