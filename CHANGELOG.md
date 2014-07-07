@@ -1,3 +1,11 @@
+### 1.0.1 (2014-07-07)
+
+
+#### Bug Fixes
+
+* **package.json:** ensure dependencies prior to 1.0.0 are explicitly versioned ([49a691ce](CaryLandholt/fatarrow-ascii-art/commit/49a691ceb3da48bd180cf9a10d52bf936ae7671c))
+
+
 ## 1.0.0 (2014-06-14)
 
 
